@@ -1,0 +1,5 @@
+googlesecret.json
+code/__pycache__
+code/gsheets.py
+code/crops/__pycache__
+screenshots/*.png 
